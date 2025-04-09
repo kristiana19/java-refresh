@@ -33,6 +33,14 @@ Tasks are grouped by topics, matching the structure of the original PDF:
 - Code includes comments to explain the solution
 - All programs are self-contained and run from `main()`
 
+## ▶️ How to Run the code
+📝 Example: If you're inside the folder 01_control_structures/ and want to run AbsolutnaVrednost.java, use:
+
+    ```bash
+    javac AbsolutnaVrednost.java
+    java AbsolutnaVrednost
+
+
 ---
 
 ## 🗓️ Learning Plan
