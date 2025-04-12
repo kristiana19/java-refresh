@@ -61,8 +61,8 @@ University of Ljubljana – Faculty of Computer and Information Science
 
 ## ✅ Progress
 
-- ✅ 01 – Control structures: in progress
-- ⏳ 02 – Methods: coming soon
+- ✅ 01 – Control structures: done
+- ✅ 02 – Methods: in progress
 - ⏳ 03 – Arrays: coming soon
 - ...
 
