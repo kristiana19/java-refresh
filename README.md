@@ -1,4 +1,4 @@
-# ☕ Java Refresh – 80 Practice Tasks by Topic
+# ☕ Java Refresh
 
 This repository contains my personal Java practice tasks, organized by topic.  
 The exercises are based on the official task collection *“Dodatne naloge”* used at the University.
