@@ -64,6 +64,7 @@ University of Ljubljana – Faculty of Computer and Information Science
 - ✅ 01 – Control structures: done
 - ✅ 02 – Methods: in progress
 - ⏳ 03 – Arrays: coming soon
+- ⏳ 04 - Classes and objects: coming soon
 - ...
 
 ---
